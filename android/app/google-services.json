@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115964457386",
+    "project_id": "petshop-f9137",
+    "storage_bucket": "petshop-f9137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115964457386:android:c986f7d72fd55dc9ad7bd3",
+        "android_client_info": {
+          "package_name": "app.clanofpets.in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQkQfW22ngajcNXMR7-f-K5z1_K1Xje5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
